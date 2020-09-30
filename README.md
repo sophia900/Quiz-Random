@@ -1,5 +1,5 @@
 # Quiz-Random
-Programmed in 
+Programmed in PHP
 
 • It creates n different Quizzes, each having m Multiple-Choice Questions, in random order.
 
